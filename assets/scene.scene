@@ -11,7 +11,7 @@
   },
   {
     "__type__": "cc.Scene",
-    "_name": "",
+    "_name": "scene",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": null,
@@ -295,7 +295,7 @@
     "_id": "73LVb8gQpLZ6u2/yJD5Cer"
   },
   {
-    "__type__": "f6e4cjko4hK5Jpv2PftJGlb",
+    "__type__": "e94baNmyqFBiZbJQWuL6cc4",
     "_name": "",
     "_objFlags": 0,
     "__editorExtras__": {},
@@ -304,7 +304,7 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "_id": "e4vLhFgQBIZJdHBdNR8NCZ"
+    "_id": "d1ISpc9/pAPJ/UrCOj+Xyj"
   },
   {
     "__type__": "cc.SceneGlobals",
